@@ -1,0 +1,66 @@
+.Heading {
+    text-align: center;
+    background-color: bisque;
+    color: black
+}
+
+.Border {
+    border: 1px solid black;
+    padding: 5px 20px 5px 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.last_row {
+    padding: 5px 20px 5px 20px;
+
+
+}
+.space_left{
+    padding-left: 25px;
+}
+.BlueFont{
+    color: blue;
+}
+.GreenFont{
+    color: green;
+}
+.RedFont{
+    color: maroon;
+}
+
+.Bluish_white {
+    background-color: #e6e6fa;
+}
+
+.Peach {
+    background-color: #ebdca9;
+}
+
+
+
+.Pinkish_orange {
+    background-color: #f96;
+}
+
+.Mustard {
+
+    background-color:  #c79810 ;
+   
+}
+
+.Green {
+    background-color: #cdeb8b;
+}
+
+.Greenish_yellow {
+    background-color: #fff28e;
+}
+
+.Blue {
+    background-color: #90c7ff;
+}
+
+.Violet {
+    background-color: #dda0dd;
+}
